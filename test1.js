@@ -1,9 +1,3 @@
-<html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
-</html>
+console.log(123);
+console.log(456);
+console.log(789);
