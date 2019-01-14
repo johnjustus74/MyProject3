@@ -1,2 +1,6 @@
 test1.log
 /dir2
+<<<<<<< HEAD
+=======
+/dir3
+>>>>>>> john1

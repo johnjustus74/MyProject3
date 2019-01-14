@@ -1,1 +1,5 @@
 sample log testdir1.log
+<<<<<<< HEAD
+=======
+sample log testdir2.log
+>>>>>>> john1
