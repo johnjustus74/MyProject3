@@ -1,9 +1,7 @@
-<html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
-</html>
+console.log('Ver1');
+/*<SCRIPT LANGUAGE = "Javascript">
+//var today= new Date()
+</SCRIPT>
+....
+<BODY onload=alert(today)>
+*/
